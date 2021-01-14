@@ -1,2 +1,2 @@
-# ping-pong-game
+# astroid game
 developed a beginners game using javascript,html,css
